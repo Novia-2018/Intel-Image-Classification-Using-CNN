@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="https://www.nwh.org/media/BlogImages/Health-Heart-Disease.jpg" alt="Logo" width="80" height="80">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjEK-nDvywxERkOu25jg100OKEXaatvgul8w&usqp=CAU" alt="Logo" width="80" height="80">
   </a>
 
 
